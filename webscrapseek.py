@@ -34,7 +34,6 @@ class Webscraper():
                     'Location': location.text if location else '',
                     'jobURL': job_url,
                 }
-                #print(jobDict)
                 # passing the dict in array
                 self._dataArr.append(jobDict)
 
