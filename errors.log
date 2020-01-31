@@ -1,0 +1,64 @@
+2020-01-30 08:12:27,712:jobAutoamtion:ERROR:Extended amount time error
+Traceback (most recent call last):
+  File "/home/preeyash/Desktop/Projects/Python/Web Scraper/jobAutoamtion.py", line 51, in applyJob
+    WebDriverWait(self.driver, delay).until(EC.presence_of_element_located((By.TAG_NAME, "fieldset"))) # waits for 3secs to check if the element fieldset is loaded
+  File "/home/preeyash/Desktop/Projects/Python/Web Scraper/webscraper-env/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2020-01-30 08:13:49,301:jobAutoamtion:ERROR:Extended amount time error
+Traceback (most recent call last):
+  File "/home/preeyash/Desktop/Projects/Python/Web Scraper/jobAutoamtion.py", line 51, in applyJob
+    WebDriverWait(self.driver, delay).until(EC.presence_of_element_located((By.TAG_NAME, "fieldset"))) # waits for 3secs to check if the element fieldset is loaded
+  File "/home/preeyash/Desktop/Projects/Python/Web Scraper/webscraper-env/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2020-01-30 08:15:47,356:jobAutoamtion:ERROR:Extended amount time error
+Traceback (most recent call last):
+  File "/home/preeyash/Desktop/Projects/Python/Web Scraper/jobAutoamtion.py", line 51, in applyJob
+    WebDriverWait(self.driver, delay).until(EC.presence_of_element_located((By.TAG_NAME, "fieldset"))) # waits for 3secs to check if the element fieldset is loaded
+  File "/home/preeyash/Desktop/Projects/Python/Web Scraper/webscraper-env/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2020-01-30 08:16:31,232:jobAutoamtion:ERROR:Extended amount time error
+Traceback (most recent call last):
+  File "/home/preeyash/Desktop/Projects/Python/Web Scraper/jobAutoamtion.py", line 51, in applyJob
+    WebDriverWait(self.driver, delay).until(EC.presence_of_element_located((By.TAG_NAME, "fieldset"))) # waits for 3secs to check if the element fieldset is loaded
+  File "/home/preeyash/Desktop/Projects/Python/Web Scraper/webscraper-env/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2020-01-30 09:51:49,597:jobAutoamtion:ERROR:Extended amount time error
+Traceback (most recent call last):
+  File "/home/preeyash/Desktop/Projects/Python/Web Scraper/jobAutoamtion.py", line 52, in applyJob
+    WebDriverWait(self.driver, delay).until(EC.presence_of_element_located((By.TAG_NAME, "fieldset"))) # waits for 3secs to check if the element fieldset is loaded
+  File "/home/preeyash/Desktop/Projects/Python/Web Scraper/webscraper-env/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2020-01-30 17:34:42,781:jobAutoamtion:ERROR:Extended amount time error
+Traceback (most recent call last):
+  File "/home/preeyash/Desktop/Projects/Python/Web Scraper/jobAutoamtion.py", line 48, in applyJob
+    WebDriverWait(self.driver, delay).until(EC.presence_of_element_located((By.TAG_NAME, "fieldset"))) # waits for 3secs to check if the element fieldset is loaded
+  File "/home/preeyash/Desktop/Projects/Python/Web Scraper/webscraper-env/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2020-01-30 17:37:26,319:jobAutoamtion:ERROR:Extended amount time error
+Traceback (most recent call last):
+  File "/home/preeyash/Desktop/Projects/Python/Web Scraper/jobAutoamtion.py", line 48, in applyJob
+    WebDriverWait(self.driver, delay).until(EC.presence_of_element_located((By.TAG_NAME, "fieldset"))) # waits for 3secs to check if the element fieldset is loaded
+  File "/home/preeyash/Desktop/Projects/Python/Web Scraper/webscraper-env/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2020-01-30 17:40:24,472:jobAutoamtion:ERROR:Extended amount time error
+Traceback (most recent call last):
+  File "/home/preeyash/Desktop/Projects/Python/Web Scraper/jobAutoamtion.py", line 47, in applyJob
+    WebDriverWait(self.driver, delay).until(EC.presence_of_element_located((By.TAG_NAME, "fieldset"))) # waits for 3secs to check if the element fieldset is loaded
+  File "/home/preeyash/Desktop/Projects/Python/Web Scraper/webscraper-env/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
